@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Glimpse #0001", "image": "https://placehold.co/600x600/1e1b4b/a855f7?text=Glimpse+%230001", "attributes": [{ "trait_type": "Background", "value": "Violet" }, { "trait_type": "Rarity", "value": "Common" }] },
+  { "id": 2, "name": "Glimpse #0002", "image": "https://placehold.co/600x600/0c4a6e/22d3ee?text=Glimpse+%230002", "attributes": [{ "trait_type": "Background", "value": "Cyan" }, { "trait_type": "Rarity", "value": "Rare" }] },
+  { "id": 3, "name": "Glimpse #0003", "image": "https://placehold.co/600x600/3b0764/f0abfc?text=Glimpse+%230003", "attributes": [{ "trait_type": "Background", "value": "Magenta" }, { "trait_type": "Rarity", "value": "Common" }] },
+  { "id": 4, "name": "Glimpse #0004", "image": "https://placehold.co/600x600/164e63/67e8f9?text=Glimpse+%230004", "attributes": [{ "trait_type": "Background", "value": "Teal" }, { "trait_type": "Rarity", "value": "Epic" }] },
+  { "id": 5, "name": "Glimpse #0005", "image": "https://placehold.co/600x600/312e81/c4b5fd?text=Glimpse+%230005", "attributes": [{ "trait_type": "Background", "value": "Indigo" }, { "trait_type": "Rarity", "value": "Common" }] },
+  { "id": 6, "name": "Glimpse #0006", "image": "https://placehold.co/600x600/581c87/e879f9?text=Glimpse+%230006", "attributes": [{ "trait_type": "Background", "value": "Purple" }, { "trait_type": "Rarity", "value": "Rare" }] },
+  { "id": 7, "name": "Glimpse #0007", "image": "https://placehold.co/600x600/134e4a/5eead4?text=Glimpse+%230007", "attributes": [{ "trait_type": "Background", "value": "Emerald" }, { "trait_type": "Rarity", "value": "Legendary" }] },
+  { "id": 8, "name": "Glimpse #0008", "image": "https://placehold.co/600x600/1e293b/38bdf8?text=Glimpse+%230008", "attributes": [{ "trait_type": "Background", "value": "Slate" }, { "trait_type": "Rarity", "value": "Common" }] }
+]
